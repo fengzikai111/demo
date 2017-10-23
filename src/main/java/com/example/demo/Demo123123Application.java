@@ -17,6 +17,8 @@ public class Demo123123Application {
 		m.put("ddd", "ff");
 		System.out.println(m.toString());
 
+
+		System.out.println("==============");
 		System.out.println(generateShortUuid());
 		SpringApplication.run(Demo123123Application.class, args);
 	}
