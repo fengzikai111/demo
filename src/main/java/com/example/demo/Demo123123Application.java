@@ -20,7 +20,9 @@ public class Demo123123Application {
 		System.out.println(m.toString());
 		System.out.println(m.toString());
 		System.out.println(m.toString());
-
+		System.out.println(m.toString());
+		System.out.println(m.toString());
+		System.out.println(m.toString());
 		System.out.println(generateShortUuid());
 		SpringApplication.run(Demo123123Application.class, args);
 	}
